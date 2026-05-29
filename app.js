@@ -1,2 +1,1 @@
-console.log("Hola git");
-console.log("Hola git, Segunda versión");
+console.log("Hola git, desde github");
